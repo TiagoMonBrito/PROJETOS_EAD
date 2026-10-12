@@ -1,5 +1,4 @@
 
-
 from colorama import Fore, Style, init
 
 # Inicializa o colorama (necessário principalmente no Windows)

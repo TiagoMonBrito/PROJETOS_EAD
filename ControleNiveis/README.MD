@@ -10,11 +10,15 @@ A simulação utiliza valores definidos no próprio código, sem entrada de dado
 
 ## Sumário
 
-- [Níveis e cores](#níveis-e-cores)
-- [Como o programa funciona](#como-o-programa-funciona)
-- [Como executar](#como-executar)
-- [Como alterar a simulação](#como-alterar-a-simulação)
-- [Tecnologias](#tecnologias)
+- [Controle de Níveis de Água](#controle-de-níveis-de-água)
+  - [Sumário](#sumário)
+  - [Níveis e cores](#níveis-e-cores)
+  - [Como o programa funciona](#como-o-programa-funciona)
+    - [Estrutura do código](#estrutura-do-código)
+    - [Fluxo de execução](#fluxo-de-execução)
+  - [Como executar](#como-executar)
+  - [Como alterar a simulação](#como-alterar-a-simulação)
+  - [Tecnologias](#tecnologias)
 
 ## Níveis e cores
 
